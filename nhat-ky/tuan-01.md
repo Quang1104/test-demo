@@ -31,7 +31,7 @@ Chưa có dữ liệu điểm chất lượng; nhóm bổ sung khi có kết qu�
 
 không đánh occluded
 
-- **Trạng thái trao đổi:** Chưa trao đổi
+- **Trạng thái trao đổi:** Mentor đã xác nhận
 
 [Mở job CVAT](https://app.cvat.ai/tasks/2657854/jobs/4568914?frame=10)
 
