@@ -4,13 +4,24 @@
 # Báo cáo nhóm G03 — Tuần 1
 
 ## 1. Tiến độ batch
-> **Hoàn thành:** 1/9 job · **11.1%**
+> **22,2% hoàn thành** · **2/9 job**
 
-- Tổng: 9 job.
-- 2D: 3 job, 0 job hoàn thành.
-- 3D: 6 job, 1 job hoàn thành.
-- Đang xử lý: 3 · Đang review: 1
-- Bị trả lại: 2 · Chưa bắt đầu: 2
+**Theo loại công việc**
+
+| Loại | Hoàn thành | Tỷ lệ |
+| :--- | ---: | ---: |
+| **2D** | 0/3 job | 0% |
+| **3D** | 2/6 job | 33,3% |
+
+**Trạng thái job**
+
+| Trạng thái | Số job |
+| :--- | ---: |
+| Hoàn thành | **2** |
+| Đang xử lý | **3** |
+| Đang review | **1** |
+| Bị trả lại | **1** |
+| Chưa bắt đầu | **2** |
 
 ## 2. Điểm hiện tại
 Chưa có dữ liệu điểm chất lượng; nhóm bổ sung khi có kết quả đánh giá.
