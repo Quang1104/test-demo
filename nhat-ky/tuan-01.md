@@ -19,8 +19,8 @@
 | :--- | ---: |
 | Hoàn thành | **2** |
 | Đang xử lý | **3** |
-| Đang review | **1** |
-| Bị trả lại | **1** |
+| Đang review | **2** |
+| Bị trả lại | **0** |
 | Chưa bắt đầu | **2** |
 
 ## 2. Điểm hiện tại
